@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_71021_marketing_angular_todo.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+<script language="javascript" src="x_71021_marketing.angular_1_4_framework.jsdbx" />
+	<g2:evaluate var="jvar_stamp">  
+          var gr = new GlideRecord('sys_ui_script');  
+          gr.orderByDesc('sys_updated_on');  
+          gr.query();  
+          gr.next();  
+          gr.getValue('sys_updated_on');  
+    </g2:evaluate>  
+	<g:requires name="service.sn-glideAjax.jsdbx" params="cache=$[jvar_stamp]" />	
+	<g:requires name="service.uiMacroTemplate.jsdbx" params="cache=$[jvar_stamp]" />
+	<g:requires name="x_71021_marketing.app_angular_todo.jsdbx" params="cache=$[jvar_stamp]" />
+
+
+<!-- script language="javascript" src="service.sn-glideAjax.jsdbx"></script -->
+<!-- script language="javascript" src="x_71021_marketing.app_angular_todo.jsdbx"></script -->
+		
+<div ng-app="todo">
+     <!-- call the directive -->
+	 <todo-list></todo-list>
+</div>
+</j:jelly>]]></html>
+        <name>angular_todo</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-09-05 15:50:44</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>913a0c374fa126009d184a318110c792</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>angular_todo</sys_name>
+        <sys_package display_value="Marketing Event App" source="x_71021_marketing">61bde7134fd122009d184a318110c761</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Event App">61bde7134fd122009d184a318110c761</sys_scope>
+        <sys_update_name>sys_ui_page_913a0c374fa126009d184a318110c792</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-09-07 09:08:12</sys_updated_on>
+    </sys_ui_page>
+</record_update>

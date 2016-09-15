@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" label="Marketing Event" max_length="40" name="x_71021_marketing_marketing_event" type="collection">
+        <element label="Budget" max_length="40" name="budget" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Budget remaining" max_length="15" name="budget_remaining" type="currency"/>
+        <element choice="1" label="city" max_length="40" name="city" type="choice">
+            <choice>
+                <element label="Casa" sequence="0" value="Casa"/>
+                <element label="Portland" sequence="0" value="Portland"/>
+                <element label="San Jose" sequence="0" value="San Jose"/>
+                <element label="Rabat" sequence="1" value="Rabat"/>
+                <element label="Agadir" sequence="2" value="Agadir"/>
+            </choice>
+        </element>
+        <element label="end date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Event coordinator" mandatory="true" max_length="32" name="event_coordinator" reference="sys_user" type="reference"/>
+        <element attributes="omit_sys_original=true" label="Event cost" max_length="15" name="event_cost" read_only="true" type="currency"/>
+        <element display="true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="Max capacity" max_length="40" name="number_of_attendees_expected" type="integer"/>
+        <element label="Attendees registred" max_length="40" name="number_of_attendees_registred" type="integer"/>
+        <element attributes="omit_sys_original=true" label="remaining budget" max_length="15" name="remaining_budget" read_only="true" type="currency"/>
+        <element label="Sponsor" max_length="40" name="sponsor" type="string"/>
+        <element label="start date" max_length="40" name="start_date" type="glide_date"/>
+        <index name="index">
+            <element name="event_coordinator"/>
+        </index>
+        <index name="index2">
+            <element name="name"/>
+        </index>
+    </element>
+</database>

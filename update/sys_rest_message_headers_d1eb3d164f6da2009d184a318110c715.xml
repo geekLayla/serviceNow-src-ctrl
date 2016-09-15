@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_headers">
+    <sys_rest_message_headers action="INSERT_OR_UPDATE">
+        <name>Content-Type</name>
+        <rest_message display_value="Synch Sales Prospects">47db35164f6da2009d184a318110c72a</rest_message>
+        <sys_class_name>sys_rest_message_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-09-01 08:17:27</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d1eb3d164f6da2009d184a318110c715</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Content-Type</sys_name>
+        <sys_package display_value="Marketing Event App" source="x_71021_marketing">61bde7134fd122009d184a318110c761</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Event App">61bde7134fd122009d184a318110c761</sys_scope>
+        <sys_update_name>sys_rest_message_headers_d1eb3d164f6da2009d184a318110c715</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-09-01 08:17:27</sys_updated_on>
+        <value>application/json</value>
+    </sys_rest_message_headers>
+</record_update>

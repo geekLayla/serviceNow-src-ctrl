@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Marketing event CSV" max_length="40" name="x_71021_marketing_marketing_event_csv" type="collection">
+        <element attributes="import_attribute_name=Name;City;start date;end date;Budget;Sponsor,edge_encryption_enabled=true" label="Name;City;start date;end date;Budget;Sponsor" max_length="61" name="u_name_city_st_budget_sponsor" type="string"/>
+    </element>
+</database>
