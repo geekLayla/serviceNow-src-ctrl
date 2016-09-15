@@ -110,7 +110,7 @@ attendee.insert();]]></processing_script>
         <sys_class_name>sys_ui_page</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-25 16:08:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>370e1b004fad22009d184a318110c77c</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>AttendeeForm</sys_name>

@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-31 13:57:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>07014a0e4f29a2009d184a318110c781</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sys_popup,soap</sys_name>

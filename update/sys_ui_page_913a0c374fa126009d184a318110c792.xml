@@ -25,7 +25,7 @@
 <!-- script language="javascript" src="x_71021_marketing.app_angular_todo.jsdbx"></script -->
 		
 <div ng-app="todo">
-     <!-- call the directive -->
+     <!-- call the directive todo-list -->
 	 <todo-list></todo-list>
 </div>
 </j:jelly>]]></html>
@@ -36,7 +36,7 @@
         <sys_created_on>2016-09-05 15:50:44</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>913a0c374fa126009d184a318110c792</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>angular_todo</sys_name>
         <sys_package display_value="Marketing Event App" source="x_71021_marketing">61bde7134fd122009d184a318110c761</sys_package>
         <sys_policy/>
@@ -44,6 +44,6 @@
         <sys_scope display_value="Marketing Event App">61bde7134fd122009d184a318110c761</sys_scope>
         <sys_update_name>sys_ui_page_913a0c374fa126009d184a318110c792</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-09-07 09:08:12</sys_updated_on>
+        <sys_updated_on>2016-09-15 11:16:23</sys_updated_on>
     </sys_ui_page>
 </record_update>

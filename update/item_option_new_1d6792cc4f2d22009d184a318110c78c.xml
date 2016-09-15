@@ -55,7 +55,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-25 10:27:58</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1d6792cc4f2d22009d184a318110c78c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Number of attendees expected</sys_name>

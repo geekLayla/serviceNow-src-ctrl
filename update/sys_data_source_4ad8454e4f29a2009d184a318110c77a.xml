@@ -42,7 +42,7 @@
         <sys_class_name>sys_data_source</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-31 09:51:50</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4ad8454e4f29a2009d184a318110c77a</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>attendee-legacy-data.xls (Uploaded)</sys_name>

@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-09-05 15:36:17</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>fd7740374fa126009d184a318110c752</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>To Do List Item</sys_name>

@@ -6,7 +6,7 @@
         <sys_class_name>sys_auth_profile_basic</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-31 16:52:21</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>db0922464fa9a2009d184a318110c77d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>test</sys_name>

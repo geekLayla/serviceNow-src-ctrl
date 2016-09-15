@@ -9,7 +9,7 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-09-05 15:36:19</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>09a780374fa126009d184a318110c72c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_71021_marketing_to_do_list_item</sys_name>

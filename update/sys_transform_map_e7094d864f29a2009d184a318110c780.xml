@@ -17,7 +17,7 @@
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-31 09:53:20</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e7094d864f29a2009d184a318110c780</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Legacy data attendee</sys_name>

@@ -21,7 +21,7 @@
         <sys_class_name>content_block_programmatic</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-26 10:47:34</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>df55e7d84f6162009d184a318110c75a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>test_ahmed</sys_name>

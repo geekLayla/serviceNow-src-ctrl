@@ -17,7 +17,7 @@
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-24 14:51:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6f0a4ab34f5922009d184a318110c77d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>market event map</sys_name>

@@ -14,7 +14,7 @@
         <sys_class_name>sys_rest_message</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-09-01 08:17:27</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>47db35164f6da2009d184a318110c72a</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>Synch Sales Prospects</sys_name>

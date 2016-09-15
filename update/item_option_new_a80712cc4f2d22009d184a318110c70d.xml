@@ -55,7 +55,7 @@
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-25 10:26:01</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a80712cc4f2d22009d184a318110c70d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Event start date</sys_name>

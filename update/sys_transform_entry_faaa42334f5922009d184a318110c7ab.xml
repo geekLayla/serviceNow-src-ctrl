@@ -19,7 +19,7 @@
         <sys_class_name>sys_transform_entry</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-24 14:53:05</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>faaa42334f5922009d184a318110c7ab</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>u_start_date</sys_name>
